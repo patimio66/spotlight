@@ -1,12 +1,12 @@
 {
-    "name": "wire-elements/spotlight",
+    "name": "patimio66/spotlight",
     "description": "Livewire component that provides Spotlight/Alfred-like functionality to your Laravel application.",
     "keywords": [
         "livewire-ui",
         "laravel",
         "spotlight"
     ],
-    "homepage": "https://github.com/wire-elements/spotlight",
+    "homepage": "https://github.com/patimio66/spotlight",
     "license": "MIT",
     "authors": [
         {
